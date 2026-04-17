@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import csv
 import pandas as pd
 
 data = pd.read_csv('employees.csv')

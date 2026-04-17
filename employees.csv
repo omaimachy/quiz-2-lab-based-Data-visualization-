@@ -1,0 +1,26 @@
+employee_id, name, department, salary
+E001,	Ahmed Hassan,	IT,	7500
+E002,	Fatima Khan,	HR,	45000
+E003,	Nusrat Islam,	IT,	65000
+E004,	Sadia Rahman,	Finance,	55000
+E005,	Zara Hassan,	IT,	85000
+E006,	Mina Ali,	    Marketing,	42000
+E007,	Hana Aziz,	    IT,	72000
+E008,	Rania Mahmoud,	HR,	52000
+E009,	Layla Omar,	    Finance,	61000
+E010,	Sara Youssef,	Marketing,	38000
+E011,	Dina Khalil,	IT,	78000
+E012,	Amira Hassan,	HR,	48000
+E013,	Leila Ahmed,	Finance,	68000
+E014,	Noor Ibrahim,	Marketing,	44000
+E015,	Yasmin Karim,	IT,	81000
+E016,	Samira Ahmad,	HR,	51000
+E017,	Mariam Hassan,	Finance,	58000
+E018,	Farah Ali,	    Marketing,	41000
+E019,	Hiba Ahmed,	    IT,	76000
+E020,	Lina Khan,	    Finance,	64000
+E021,	Reem Hassan,	IT,	79000
+E022,	Rana Ahmed,	    HR,	53000
+E023,	Shams Khalil,	Marketing,	39000
+E024,	Dalia Ibrahim,	Finance,	62000
+E025,	Salma Hassan,	IT,	82000
